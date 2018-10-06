@@ -1,8 +1,6 @@
 Things to do 
 
-1- Take image button should open camera 
-  
-  a-Then takes picture 
+1- Take image button should open camera then takes picture 
 
 2- Attach file button should open gallery then selects picture 
 
